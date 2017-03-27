@@ -12,3 +12,5 @@ Press 's' (no quotes mark) for source brush, 'o' for obstruction brush, wait a l
 Press spacebar to toggle animation on/off
 
 Compiled with Visual Studio 2013 Community Edition
+
+You must change the platform to x64 to include the property files (OpenGL.props)
