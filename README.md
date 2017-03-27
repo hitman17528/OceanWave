@@ -6,4 +6,5 @@ I have included the paper in this project, inside the Paper folder
 
 For the demo:
 Press 's' (no quotes mark) for source brush, 'o' for obstruction brush, wait a little for animation
+
 Press spacebar to toggle animation on/off
