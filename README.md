@@ -1,7 +1,9 @@
 # OceanWave
 My simple wave propagation demo
 This is my simple OpenGL program, that can simulate simple wave propagation
+
 According to Master Jerry Tessendorf paper: "Simulating ocean water"
+
 I have included the paper in this project, inside the Paper folder
 
 For the demo:
