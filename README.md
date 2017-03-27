@@ -10,3 +10,5 @@ For the demo:
 Press 's' (no quotes mark) for source brush, 'o' for obstruction brush, wait a little for animation
 
 Press spacebar to toggle animation on/off
+
+Compiled with Visual Studio 2013 Community Edition
